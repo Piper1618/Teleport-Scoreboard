@@ -1,0 +1,19 @@
+{
+	"DEBUG": true,
+	"BORDERSIZE": {
+		"value": 100,
+		"description": "The radius of the world border."
+	},
+	"KURTSPEED": {
+		"value": 6,
+		"description": "The number of hours after a place enters the world border before it exits again on the other size"
+	},
+	"SCATTERRANGE": {
+		"value": 30,
+		"description": "When a player enters the return portal in the pocket dimension while there is no active portal in the overworld, they will be scattered randomly around the map. This is how far from the center they can be placed."
+	}
+	"SEARCHJUMP": {
+		"value": 200000,
+		"description": "There's an armor stand that jumps around to track where the player(s) get sent when entering exploration mode. This variable controls how far this armor stand jumps each time it needs to update."
+	}
+}
