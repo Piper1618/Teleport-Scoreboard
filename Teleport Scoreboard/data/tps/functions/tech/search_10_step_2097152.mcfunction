@@ -1,0 +1,15 @@
+execute if score _escape tps matches 0 if score _step_262144 tps matches 0 positioned ^ ^ ^00000000 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 1 positioned ^ ^ ^02097152 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 2 positioned ^ ^ ^04194304 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 3 positioned ^ ^ ^06291456 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 4 positioned ^ ^ ^08388608 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 5 positioned ^ ^ ^10485760 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 6 positioned ^ ^ ^12582912 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 7 positioned ^ ^ ^14680064 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 8 positioned ^ ^ ^16777216 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 9 positioned ^ ^ ^18874368 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 10 positioned ^ ^ ^20971520 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 11 positioned ^ ^ ^23068672 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 12 positioned ^ ^ ^25165824 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 13 positioned ^ ^ ^27262976 run function tps:tech/search_01_axis
+execute if score _escape tps matches 0 if score _step_262144 tps matches 14 positioned ^ ^ ^29360128 run function tps:tech/search_01_axis

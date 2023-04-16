@@ -1,10 +1,10 @@
 #do all the initial setup, including creating armor stands and setting up scoreboard stuff
 
-say _init
+say Initializing Scoreboard Teleportation
 
 data modify storage tps:data init set value 1
 
-function tps:_disable
+function tps:tech/_disable
 
 
 scoreboard objectives add tps dummy

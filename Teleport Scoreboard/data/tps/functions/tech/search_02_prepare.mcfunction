@@ -34,4 +34,4 @@ scoreboard players operation _target tps /= _mod tps
 
 scoreboard players operation _step_2097152 tps = _target tps
 
-function tps:search_03_step_1
+function tps:tech/search_03_step_1

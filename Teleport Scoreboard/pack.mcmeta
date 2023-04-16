@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 12,
+		"description": "Functions to teleport to coordinates stores on a scoreboard."
+	}
+}
